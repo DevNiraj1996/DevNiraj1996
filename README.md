@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 👋 Hi, I'm Niraj Singh
 
@@ -39,7 +38,7 @@ I specialize in **Node.js ecosystems**, working extensively with frameworks and 
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevNiraj1996&show_icons=true&theme=radical)
 
 ---
 
