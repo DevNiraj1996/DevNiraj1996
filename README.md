@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Niraj Singh</h1>
 
-<p align="center">
+<p>
 I'm a passionate backend developer with <b>7 years of professional experience</b> in building scalable, secure, and performant APIs and services.<br>
 I specialize in the <b>Node.js ecosystem</b>, working extensively with frameworks and tools like NestJS, ExpressJS, Kafka, and MQTT.
 </p>
